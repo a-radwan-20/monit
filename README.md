@@ -1,4 +1,4 @@
-# This a CLI tool to monitore changes for any files .js
+# This a CLI tool to monitor files changes of .js
 # monit [the file you want to monitor for changes]
 
 monit 0.0.1 
